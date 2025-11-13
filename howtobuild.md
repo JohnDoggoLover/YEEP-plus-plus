@@ -19,7 +19,7 @@ pyinstaller --onefile yppi.py
 copy ./dist/yppi.exe ./
 del dist
 del build
-pyinstaller --onefile yppc.py
+pyinstaller --onefile yppcw.py
 copy ./dist/yppc.exe ./
 del dist
 del build
