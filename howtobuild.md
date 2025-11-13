@@ -1,3 +1,12 @@
+## first you have to install git
+install git from this link: https://git-scm.com/install
+## second
+open up the terminal and type:
+``` bash
+git clone https://github.com/JohnDoggoLover/YEEP-plus-plus
+cd YEEP-plus-plus
+```
+
 # This is How to build the yeep++ yppi and yppc executables
 
 *note that this may be different between platforms*
