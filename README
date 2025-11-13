@@ -12,4 +12,4 @@
 clear
 ./hello
 ```
-***note the reson I put clear there is becuase yppc outputs a lot of diagnostic data and  if you run two commands like that it doesn't show the stdin***
+***note the reson I put clear there is becuase yppc outputs a lot of diagnostic data and  if you run two commands like that it doesn't show the input line***
