@@ -1,4 +1,9 @@
-# This is how to use the yeep++ tooling on linux okease check the "howtobuild.md" file too see how to build yeep++ executibles on other platforms
+# This is how to use the yeep++ tooling on linux, check the "howtobuild.md" file too see how to build yeep++ executibles on other platforms
+## you have to clone the repository first
+```bash
+git clone https://github.com/JohnDoggoLover/YEEP-plus-plus
+cd YEEP-plus-plus
+```
 ## option 1
 #### using yppi
 ```bash
