@@ -1,0 +1,15 @@
+# This is how to use the yeep++ tooling on linux okease check the "howtobuild.md" file too see how to build yeep++ executibles on other platforms
+## option 1
+#### using yppi
+```bash
+./yppi ./hello.ypp 
+```
+## option 2
+#### using yppc
+###### ***this option requires you to have pyinstaller installed***
+```bash
+./yppc ./hello.ypp
+clear
+./hello
+```
+***note the reson I put clear there is becuase yppc outputs a lot of diagnostic data and  if you run two commands like that it doesn't show the input line***
