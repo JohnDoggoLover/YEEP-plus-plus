@@ -18,3 +18,9 @@ clear
 ./hello
 ```
 ***note the reson I put clear there is becuase yppc outputs a lot of diagnostic data and  if you run two commands like that it doesn't show the input line***
+## optional
+I recomend adding the YEEP-plus-plus folder to path!
+```bash
+echo 'export PATH="$PATH:/path/to/the/yeep/plus/plus/folder"' >> ~/.bashrc
+source ~/.bashrc
+```
